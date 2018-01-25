@@ -1,0 +1,11 @@
+C:\Projects\DOTNETCore2API\DOTNETCore2API\DOTNETCore2API\bin\Debug\netcoreapp2.0\DOTNETCore2API.deps.json
+C:\Projects\DOTNETCore2API\DOTNETCore2API\DOTNETCore2API\bin\Debug\netcoreapp2.0\DOTNETCore2API.runtimeconfig.json
+C:\Projects\DOTNETCore2API\DOTNETCore2API\DOTNETCore2API\bin\Debug\netcoreapp2.0\DOTNETCore2API.runtimeconfig.dev.json
+C:\Projects\DOTNETCore2API\DOTNETCore2API\DOTNETCore2API\bin\Debug\netcoreapp2.0\DOTNETCore2API.dll
+C:\Projects\DOTNETCore2API\DOTNETCore2API\DOTNETCore2API\bin\Debug\netcoreapp2.0\DOTNETCore2API.pdb
+C:\Projects\DOTNETCore2API\DOTNETCore2API\DOTNETCore2API\obj\Debug\netcoreapp2.0\DOTNETCore2API.csprojResolveAssemblyReference.cache
+C:\Projects\DOTNETCore2API\DOTNETCore2API\DOTNETCore2API\obj\Debug\netcoreapp2.0\DOTNETCore2API.csproj.CoreCompileInputs.cache
+C:\Projects\DOTNETCore2API\DOTNETCore2API\DOTNETCore2API\obj\Debug\netcoreapp2.0\DOTNETCore2API.AssemblyInfoInputs.cache
+C:\Projects\DOTNETCore2API\DOTNETCore2API\DOTNETCore2API\obj\Debug\netcoreapp2.0\DOTNETCore2API.AssemblyInfo.cs
+C:\Projects\DOTNETCore2API\DOTNETCore2API\DOTNETCore2API\obj\Debug\netcoreapp2.0\DOTNETCore2API.dll
+C:\Projects\DOTNETCore2API\DOTNETCore2API\DOTNETCore2API\obj\Debug\netcoreapp2.0\DOTNETCore2API.pdb
